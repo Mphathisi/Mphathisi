@@ -1,5 +1,5 @@
 <h1 align="center">System.out.greetings("Hi 👋, I'm Mphathisi Dayimani");</h1>
-<h3 align="center">A computer science student who is passionate about writing code, solving problems and building software.</h3>
+<h3 align="center">A computer science graduate who is passionate about writing code, solving problems and building software.</h3>
 
 
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
