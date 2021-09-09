@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 
-- 🔭 I’m currently a [CS student at Walter Sisulu Unversity.](https://www.wsu.ac.za/)
+- 🔭 I studied at [ Walter Sisulu Unversity.](https://www.wsu.ac.za/)
 
 - 🌱 I’m currently learning **Node.js(express), Java(spring) ,flutter Mongodb and Mysql**
 
