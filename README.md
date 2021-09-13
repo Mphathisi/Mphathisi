@@ -6,7 +6,7 @@
 
 - 🔭 I studied at [ Walter Sisulu Unversity.](https://www.wsu.ac.za/)
 
-- 🌱 I’m currently learning **Node.js(express), Java(spring) ,flutter Mongodb and Mysql**
+- 🌱 I’m currently learning **Node.js(express), React ,flutter. Mongodb, java(Spring) and , CI/CD**
 
 - 👯 I’m **more into programming and machine learning**
 
