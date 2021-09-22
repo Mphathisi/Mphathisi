@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C++,Java ,React , Angular , flutter and More**
 
-- 📫 How to reach me **mphathisi41@gmail.com mphathise@icloud.com**
+- 📫 How to reach me **mphathisi41@gmail.com mphathise@icloud.com** https://mphathisi.me
 
 - ⚡ Fun fact **I am kinda a boring person**
 
