@@ -6,13 +6,13 @@
 
 - 🔭 I studied at [ Walter Sisulu Unversity.](https://www.wsu.ac.za/)
 
-- 🌱 I’m currently learning **Node.js(express), Angular ,Flutter. Mongodb, java(Spring Boot) and , MSQL**
+- 🌱 I’m currently learning **Spring framework, Angular ,Flutter ,  SQL, Firebase**
 
-- 👯 I’m **more into programming and machine learning**
+- 👯 I’m **more into programming**
 
 - 🤝 I’m looking for help with **software development internship**
 
-- 💬 Ask me about **C++,Java ,React , Angular , flutter and More**
+- 💬 Ask me about **C++,Java , Angular , flutter and More**
 
 - 📫 How to reach me **mphathisi41@gmail.com mphathise@icloud.com** https://mphathisi.me
 
