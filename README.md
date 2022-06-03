@@ -2,7 +2,9 @@
 <h3 align="center">A computer science graduate who is passionate about writing code, solving problems and building software.</h3>
 
 
-<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+<!---<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/> -->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 
 - 🔭 I studied at [ Walter Sisulu Unversity.](https://www.wsu.ac.za/)
 
