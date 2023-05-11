@@ -1,4 +1,4 @@
-<h1 align="center">System.out.greetings("Hi 👋, I'm Mphathisi Dayimani");</h1>
+<h1 align="center">System.out.greetings("Hi 👋, I'm Mphathise Dayimani");</h1>
 <h3 align="center">A computer science graduate who is passionate about writing code, solving problems and building software.</h3>
 
 
