@@ -6,8 +6,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
-- 🔭 I studied at [ Walter Sisulu Unversity.](https://www.wsu.ac.za/)
-
 - 🌱 I’m currently learning **Spring framework, Angular ,Flutter ,  SQL, Firebase**
 
 - 👯 I’m **more into programming**
