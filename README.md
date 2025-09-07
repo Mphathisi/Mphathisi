@@ -33,8 +33,6 @@
     STATUS: READY FOR WORLD DOMINATION... I MEAN, SENIOR ROLES 🌍
 ```
 
-<img align="right" alt="Hacker GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-
 ## ⚡ SYSTEM SPECIFICATIONS
 
 ```typescript
@@ -124,31 +122,6 @@ class MphathiseMatrix extends QuantumDeveloper implements AIWizard {
   <img src="https://img.shields.io/badge/🎯_Machine_Learning-9400D3?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
 </p>
 
-## 🎭 CLASSIFIED PROJECT ARCHIVES
-
-```yaml
-mission_critical_projects:
-  project_prometheus:
-    codename: "OCR Revolution"
-    classification: "ENTERPRISE LEVEL"
-    tech_stack: ["Spring Boot", "Hyperscience", "MQ", "PostgreSQL"]
-    impact: "Document processing efficiency increased by 2000%"
-    status: "OPERATIONAL"
-    
-  project_oracle:
-    codename: "eTalente HR Platform"
-    classification: "FULL STACK DOMINATION"
-    tech_stack: ["Angular", "Spring Boot", "Firebase", "WebSockets"]
-    impact: "Revolutionizing human resource management"
-    status: "CONQUERING MARKETS"
-    
-  project_neo:
-    codename: "Microservices Matrix"
-    classification: "ARCHITECTURAL MASTERPIECE"
-    tech_stack: ["Spring Boot", "Docker", "Event-Driven", "REST APIs"]
-    impact: "Scalability achieved beyond human comprehension"
-    status: "REALITY-BENDING"
-```
 
 ## 📊 NEURAL NETWORK ANALYTICS
 
@@ -216,5 +189,9 @@ mission_critical_projects:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mphathisi&color=00ff41&style=for-the-badge&label=MATRIX+CONNECTIONS)
 ![Followers](https://img.shields.io/github/followers/mphathisi?color=00ff41&style=for-the-badge&label=DIGITAL+DISCIPLES)
+
+
+
+<img align="right" alt="Hacker GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
 </div>
