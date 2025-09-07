@@ -1,47 +1,217 @@
-<h1 align="center">System.out.greetings("Hi 👋, I'm Mphathise Dayimani");</h1>
-<h3 align="center">A computer science graduate who is passionate about writing code, solving problems and building software.</h3>
+<!-- Animated Matrix Background -->
 
+<img align="right" alt="AI Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-<!---<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/> -->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<!-- Hacker Terminal Interface -->
+```bash
+┌──(mphathisi㉿matrix)-[~/dev/universe]
+└─$ whoami && cat /proc/version
+```
 
+<div align="center">
 
-- 🌱 I’m currently learning **Spring framework, Angular ,Flutter ,  SQL, Firebase**
+### 🔴 LIVE STATUS: `CONNECTED TO THE GRID` 🔴
 
-- 👯 I’m **more into programming**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED%3A+NEURAL+INTERFACE+ACTIVE;QUANTUM+PROCESSOR%3A+SPRING+%2B+ANGULAR+%2B+AI;BREACH+DETECTED%3A+BUILDING+EPIC+SOFTWARE;FIREWALL+STATUS%3A+DEBUGGING+THE+MATRIX;MISSION%3A+REVOLUTIONIZE+ENTERPRISE+SYSTEMS)](https://git.io/typing-svg)
 
-- 🤝 I’m looking for help with **software development internship**
+</div>
 
-- 💬 Ask me about **C++,Java , Angular , flutter and More**
+<!-- ASCII Art Matrix Style -->
+```
+    ███╗   ███╗██████╗ ██╗  ██╗ █████╗ ████████╗██╗  ██╗██╗███████╗██╗
+    ████╗ ████║██╔══██╗██║  ██║██╔══██╗╚══██╔══╝██║  ██║██║██╔════╝██║
+    ██╔████╔██║██████╔╝███████║███████║   ██║   ███████║██║███████╗██║
+    ██║╚██╔╝██║██╔═══╝ ██╔══██║██╔══██║   ██║   ██╔══██║██║╚════██║██║
+    ██║ ╚═╝ ██║██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║███████║██║
+    ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝
+    
+    [ENTERPRISE DEVELOPER] [AI SPECIALIST] [MICROSERVICES ARCHITECT]
+    ════════════════════════════════════════════════════════════════════
+    STATUS: READY FOR WORLD DOMINATION... I MEAN, SENIOR ROLES 🌍
+```
 
-- 📫 How to reach me **mphathisi41@gmail.com mphathise@icloud.com** https://mphathisi.me
+<img align="right" alt="Hacker GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
-- ⚡ Fun fact **I am kinda a boring person**
+## ⚡ SYSTEM SPECIFICATIONS
 
-<h3> 🤝🏻 Connect with Me </h3>
+```typescript
+class MphathiseMatrix extends QuantumDeveloper implements AIWizard {
+  private readonly DNA = {
+    name: "Mphathise Dayimani",
+    class: "Full Stack Overlord",
+    location: "South Africa 🇿🇦 [Coordinates: -33.9249, 18.4241]",
+    specialization: "Enterprise Code Architect & AI Integration Specialist",
+    currentMission: "Building the future, one microservice at a time",
+    secretWeapon: "OCR automation that makes documents surrender",
+    coffeeConsumption: "∞ cups/day",
+    debuggingLevel: "Neo-level bullet-time debugging"
+  };
 
+  public initializeAwesome(): Promise<WorldDomination> {
+    return new Promise((resolve) => {
+      while(!worldConquered) {
+        this.writeEpicCode();
+        this.buildEnterpriseApps();
+        this.integrateAI();
+      }
+      resolve("Mission Complete: Ready for Senior Roles 🚀");
+    });
+  }
+}
+```
+
+## 🔥 CURRENT OPERATIONS
+
+<table>
+  <tr>
+    <td>🤖</td>
+    <td><strong>AI & OCR INTEGRATION</strong></td>
+    <td>Making documents process themselves with Hyperscience wizardry</td>
+  </tr>
+  <tr>
+    <td>🏗️</td>
+    <td><strong>MICROSERVICES ARCHITECTURE</strong></td>
+    <td>Dismantling monoliths like a digital demolition expert</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><strong>ENTERPRISE APPLICATIONS</strong></td>
+    <td>Spring Boot + Angular = Unstoppable force meets immovable object</td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td><strong>CLOUD NATIVE SOLUTIONS</strong></td>
+    <td>Docker containers floating in AWS clouds of glory</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><strong>NEURAL NETWORK OPTIMIZATION</strong></td>
+    <td>Training algorithms while they train me (symbiosis achieved)</td>
+  </tr>
+</table>
+
+## 🛠️ ARSENAL OF DIGITAL DESTRUCTION
+
+### 〉CORE PROGRAMMING LANGUAGES
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,python,cpp&theme=dark&perline=5" height="60"/>
+</div>
+
+### 〉FRAMEWORKS & LIBRARIES
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,flutter,nextjs,nodejs&theme=dark&perline=6" height="60"/>
+</div>
+
+### 〉DATABASES & STORAGE
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,redis,elasticsearch&theme=dark&perline=6" height="60"/>
+</div>
+
+### 〉DEVOPS & CLOUD WARFARE
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,terraform,linux&theme=dark&perline=6" height="60"/>
+</div>
+
+### 〉AI & AUTOMATION WEAPONS 🧠
 <p align="center">
+  <img src="https://img.shields.io/badge/🤖_OCR_Automation-FF0000?style=for-the-badge&logo=robot&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🧠_Hyperscience_AI-00FF41?style=for-the-badge&logo=brain&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚡_Event_Driven-FFD700?style=for-the-badge&logo=lightning&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🔄_MQ_Messaging-FF6B35?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🎯_Machine_Learning-9400D3?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
+</p>
+
+## 🎭 CLASSIFIED PROJECT ARCHIVES
+
+```yaml
+mission_critical_projects:
+  project_prometheus:
+    codename: "OCR Revolution"
+    classification: "ENTERPRISE LEVEL"
+    tech_stack: ["Spring Boot", "Hyperscience", "MQ", "PostgreSQL"]
+    impact: "Document processing efficiency increased by 2000%"
+    status: "OPERATIONAL"
+    
+  project_oracle:
+    codename: "eTalente HR Platform"
+    classification: "FULL STACK DOMINATION"
+    tech_stack: ["Angular", "Spring Boot", "Firebase", "WebSockets"]
+    impact: "Revolutionizing human resource management"
+    status: "CONQUERING MARKETS"
+    
+  project_neo:
+    codename: "Microservices Matrix"
+    classification: "ARCHITECTURAL MASTERPIECE"
+    tech_stack: ["Spring Boot", "Docker", "Event-Driven", "REST APIs"]
+    impact: "Scalability achieved beyond human comprehension"
+    status: "REALITY-BENDING"
+```
+
+## 📊 NEURAL NETWORK ANALYTICS
+
+<div align="center">
   
+<!-- Stats with Matrix Theme -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mphathisi&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=00ff41&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mphathisi&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41"/>
 
-  <p align="center">
-    <a href="https://twitter.com/MphathiDayimani" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
-    <a href="https://www.linkedin.com/in/Mphathisi_matinise/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-  <a href="https://www.facebook.com/mphathisi.matinise.3" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
-  <a href="https://www.instagram.com/Mphathisi" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
-  <a href="https://www.dev.to/nitishawasthi" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
-  <a href="https://fosstodon.org/@nitishawasthi" alt="mastodon"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1200px-Mastodon_Logotype_(Simple).svg.png" height="30" width="30"></a>
-  <a href="https://codechef.com/anitish_225" alt="Codechef"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30" width="30"></a>
-    <a href="mailto:mphathisimatinise16@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-    <a href="https://mphathisi.me" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mphathisi&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00ff41&text_color=00ff41&bg_color=0d1117&langs_count=8"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mphathisi&bg_color=0d1117&color=00ff41&line=00ff41&point=ff6b35&area=true&hide_border=true&custom_title=Neural%20Activity%20Matrix"/>
 
+</div>
 
+## 🏆 ACHIEVEMENT SYSTEM: UNLOCKED
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mphathisi&theme=matrix&no-frame=true&margin-w=10&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mphathisi&show_icons=true&locale=en&layout=compact" alt="mphathisi" /></p>
+<!-- Contribution Snake eating commits -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mphathisi&show_icons=true&locale=en" alt="mphathisi" /></p>
+## 🌐 SECURE COMMUNICATION CHANNELS
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mphathisi&" alt="mphathisi" /></p>
+<div align="center">
+  
+[![Matrix](https://img.shields.io/badge/LinkedIn-NEURAL_LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/mphathise-dayimani-350074160/)
+[![Encrypted](https://img.shields.io/badge/Email-ENCRYPTED_CHANNEL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mphathisematinise16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DIGITAL_FORTRESS-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://mphathisi.me)
+[![Phone](https://img.shields.io/badge/Secure_Line-067_703_6279-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+27677036279)
+
+</div>
+
+## 💀 TERMINAL ACCESS: DEVELOPER QUOTES
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
+</div>
+
+---
+
+<!-- Terminal Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=150&section=footer&text=MISSION%20STATUS:%20READY%20FOR%20DEPLOYMENT&fontSize=20&fontColor=00ff41&animation=twinkling"/>
+</div>
+
+```bash
+┌──(system㉿matrix)-[~/recruitment/senior_roles]
+└─$ echo "READY FOR WORLD-CLASS OPPORTUNITIES" 
+   ╭─────────────────────────────────────────────────╮
+   │  STATUS: 🔴 ONLINE & AVAILABLE FOR EPIC MISSIONS  │
+   │  CLEARANCE: ⚡ SENIOR DEVELOPER LEVEL             │ 
+   │  OBJECTIVE: 🚀 BUILD THE FUTURE OF SOFTWARE      │
+   ╰─────────────────────────────────────────────────╯
+```
+
+<div align="center">
+
+**🎯 SEEKING: Senior Developer | Tech Lead | AI Engineer Positions**
+
+*"I don't always test my code, but when I do, I do it in production."* 😎
+
+![Profile Views](https://komarev.com/ghpvc/?username=mphathisi&color=00ff41&style=for-the-badge&label=MATRIX+CONNECTIONS)
+![Followers](https://img.shields.io/github/followers/mphathisi?color=00ff41&style=for-the-badge&label=DIGITAL+DISCIPLES)
+
+</div>
