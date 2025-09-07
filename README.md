@@ -4,11 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Mphathisi.exe+%7C+System+Booting...;Full+Stack+Dev+%7C+AI+Enthusiast;Building+Microservices+%26+Dreams;OCR+Wizard+%7C+Spring+Boot+Ninja;Enterprise+Apps+%7C+Clean+Code+Obsessed;console.log('Ready+for+epic+opportunities!')" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=⚡+MPHATHISI.EXE+⚡&fontSize=40&fontColor=fff&animation=twinkling" />
-</p>
 
-# 🤖 Hey World, I'm <span style="color:#00FF9C">Mphathisi</span> 
+# 🤖 Hey World, I'm <span style="color:#00FF9C">Mphathise</span> 
 
 ```javascript
 const developer = {
